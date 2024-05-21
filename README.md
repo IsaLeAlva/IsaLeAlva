@@ -19,4 +19,3 @@
   <img align="right" alt"IsaGif" height="150" width="160" src="https://cdn.discordapp.com/attachments/954512628816936960/1242250051754135634/download20240501195117.png?ex=664d2704&is=664bd584&hm=8eb60ffd6c9d3275aafff2fad0a7f46c2276da83b29cd0bd588f734253e5c42f&" />
 </div>
 
-![Snake animation] (https://github.com/IsaLeAlva/IsaLeAlva/blob/output/github-contribution-grid-sanke.svg)
