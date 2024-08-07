@@ -1,6 +1,6 @@
 ### Oi, eu sou a IsaLeAlva 👋❤️
 - 💕Atualmente trabalho como professora de inglês
-- 📚 Estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas
+- 📚 Estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas
 - 🦉 Procuro contribuir para formação dos meus alunos e deixar sempre boas lembranças
 - 🐾 Espero poder ajudar pessoas por meio da área que escolhi seguir
 - ✨ Fato curioso: escolhi essa área após me sentir desafiada (por volta dos meus 8 anos) a entender mais sobre o trabalho do meu pai, ele é Analista há mais de 15 anos. Desde então me apaixonei e estou me aventurando nesse mundo.
