@@ -1,6 +1,5 @@
-### Oi, eu sou a IsaLeAlva 👋❤️
-- 💕Atualmente trabalho como professora de inglês
-- 📚 Estou cursando o primeiro semestre de Ciência da Computação
+### Oi, eu sou a IsaLeAlva 👋💕 
+- 📚 Estudante de Ciência da Computação da Universidade de Brasília
 - 🦉 Sempre em busca de novos conhecimentos
 - ✨ Espero poder ajudar pessoas por meio da área que escolhi seguir
 
