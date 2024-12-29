@@ -14,6 +14,10 @@
   <img align="center" alt"IsaJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img align="center" alt"IsaHtml" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
   <img align="center" alt"IsaCss" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="right" alt"IsaGif" height="150" width="160" src="https://cdn.discordapp.com/attachments/954512628816936960/1242250051754135634/download20240501195117.png?ex=664d2704&is=664bd584&hm=8eb60ffd6c9d3275aafff2fad0a7f46c2276da83b29cd0bd588f734253e5c42f&" />
 </div>
 
+<picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaLeAlva/IsaLeAlva/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaLeAlva/IsaLeAlva/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IsaLeAlva/IsaLeAlva/output/github-contribution-grid-snake.svg">
+</picture>
